@@ -9,6 +9,20 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "aldoaldo"
+  },
+  "jbaselist": [
+    {"key" : "ini" , "value" : "budi"},
+    {"key" : "sedang" , "value" : "bermain bola"},
+    {"key" : "ini2" , "value" : "budi"},
+    {"key" : "ini3" , "value" : "budi"},
+    {"key" : "ini4" , "value" : "budi"},
+    {"key" : "ini5" , "value" : "budi"},
+    {"key" : "ini6" , "value" : "budi"},
+    {"key" : "ini7" , "value" : "budi"},
+    {"key" : "ini8" , "value" : "budi"},
+    {"key" : "ini9" , "value" : "budi"},
+    {"key" : "ini10" , "value" : "budi"},
+    {"key" : "ini11" , "value" : "budi"}
+  ]
 }
